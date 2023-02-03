@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Whatsapp-Add-Contact-Send", "Whatsapp-Add-Contact-Send\Whatsapp-Add-Contact-Send.csproj", "{0148CD68-2016-40B3-BFF6-C80D2332BF44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0148CD68-2016-40B3-BFF6-C80D2332BF44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0148CD68-2016-40B3-BFF6-C80D2332BF44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0148CD68-2016-40B3-BFF6-C80D2332BF44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0148CD68-2016-40B3-BFF6-C80D2332BF44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BB930AF-1F46-49BF-AAC2-97AF6F8D200D}
+	EndGlobalSection
+EndGlobal
